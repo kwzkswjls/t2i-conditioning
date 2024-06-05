@@ -31,4 +31,5 @@ And the CLIP score is calculated by using [OpenAI/clip-vit-large](https://huggin
 
 ## Project Contributions
 Research & Report: MaoYiHeng, ZhaoZhiXuan
+
 Experimentation: YuFei, DengJie
